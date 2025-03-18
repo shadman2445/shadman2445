@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shadman2445
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data scientist
+- 👀 I’m interested in website designing
+- 🌱 I’m currently learning Ai.
+     I'm looking for a better opportunity.
 - 📫 How to reach me shad.jd@gmail.com
 
 <!---
