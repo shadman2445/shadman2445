@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shadman2445
+- 👋 Hi, I’m Mohd Shadman
 - 👀 I’m interested in website designing
 - 🌱 I’m currently learning Ai.
      I'm looking for a better opportunity.
